@@ -1,0 +1,103 @@
+body{
+    padding: 20px 300px;
+}
+.row{
+    display: flex;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.row .col{
+    background-color: lightgray;
+    height: 40px;
+    margin-top: 10px;
+}
+.col2{
+    background-color: lightgray;
+    height: 30px;
+    margin-top: 10px;
+}
+.leftCol1{
+    background-color: lightgray;
+    height: 150px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.leftCol2{
+    background-color: lightgray;
+    height: 270px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.midCol1{
+    background-color: lightgray;
+    height: 180px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.midCol2{
+    background-color: lightgray;
+    height: 400px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.rightCol1{
+    background-color: lightgray;
+    height: 140px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.rightCol2{
+    background-color: lightgray;
+    height: 250px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.rightCol3{
+    background-color: lightgray;
+    height: 180px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.footer{
+    background-color: lightgray;
+    height: 70px;
+    margin-top: 10px;
+}
+.col-1{
+    width: calc(100%*1/12);
+}
+.col-2{
+    width: calc(100%*2/12);
+}
+.col-3{
+    width: calc(100%*3/12);
+}
+.col-4{
+    width: calc(100%*4/12);
+}
+.col-5{
+    width: calc(100%*5/12);
+}
+.col-6{
+    width: 50%;
+}
+.col-7{
+    width: calc(100%*7/12);
+}
+.col-8{
+    width: calc(100%*8/12);
+}
+.col-9{
+    width: calc(100%*9/12);
+}
+.col-10{
+    width: calc(100%*10/12);
+}
+.col-11{
+    width: calc(100%*11/12);
+}
+.col-12{
+    width: 100%;
+}
