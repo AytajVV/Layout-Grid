@@ -1,0 +1,83 @@
+body{
+    background-color: lightgrey;
+    padding: 20px 225px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    text-align: center;
+}
+.col-4{
+    width: calc(100%*4/12);
+}
+.greenBox{
+    background-color: #03A65A;
+    width: 300px;
+    height: 200px;
+}
+.content{
+    padding: 5px 10px;
+    color: white;
+}
+.content h4{
+    height: 0px;
+}
+.printBox{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+}
+.printIcon{
+    display: flex;
+    justify-content: center;
+}
+.printIcon i{
+    font-size: 55px;
+    margin-top: 70px;
+    color:lightgray
+}
+.row{
+    display: flex;
+}
+.letterBox{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+}
+.letterIcon{
+    display: flex;
+    justify-content: center;
+}
+.letterIcon i{
+    font-size: 55px;
+    margin-top: 70px;
+    color: lightgray;
+}
+.purpleBox{
+    background-color: purple;
+    width: 300px;
+    height: 200px;
+}
+.yellowBox{
+    background-color: #e69b00;
+    width: 300px;
+    height: 200px;
+}
+.photoBox{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+}
+.photoIcon{
+    display: flex;
+    justify-content: center;
+}
+.photoIcon i{
+    font-size: 55px;
+    margin-top: 70px;
+    color: lightgray;
+}
